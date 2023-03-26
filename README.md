@@ -12,38 +12,16 @@
 
 ```html
 
-    <ul>
-      <li>
-        <a href="#search-engine-optimization">Search Engine Optimization</a>
-            </li>
-              <li>
-                 <a href="#online-reputation-management">Online Reputation Management</a>
-              </li>
-            <li>
-        <a href="#social-media-marketing">Social Media Marketing</a>
-        </li>
-    </ul>
+  
 
 ```
 - **After**
 
-  * Added semantic 'nav' layout to improve code reading [<nav></nav>semantic element](https://www.w3schools.com/html/html5_semantic_elements.asp). 
+  *  
 
 ```html
 
- <nav>
-    <ul>
-      <li>
-        <a href="#search-engine-optimization">Search Engine Optimization</a>
-            </li>
-              <li>
-                 <a href="#online-reputation-management">Online Reputation Management</a>
-              </li>
-            <li>
-        <a href="#social-media-marketing">Social Media Marketing</a>
-        </li>
-    </ul>
-   </nav>
+ 
 
 ```
 
@@ -53,27 +31,15 @@
 
 ```css
 
-.header .container {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
+
 
 ```
 - **After**
 
-  * Removed class element '.header' and replaced it with element selector 'header'.  [Css element selector](https://www.w3schools.com/html/html5_semantic_elements.asp).
+  * 
 
 ```css
-header .container {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
+
 ```
 
 ## **Technology Used**
@@ -102,7 +68,7 @@ header .container {
 
 **Click the link below:** 
 
-[Link to Website](https://cruzkenneth504.github.io/marketing-promo/)
+[Link to Website]()
 
 ## **Built With**
 
@@ -113,7 +79,7 @@ header .container {
 
 ## **Visual**
 
-![Site Langing Page](./assets/images/site.gif)
+![Site Langing Page]()
 
 ## **Authors**
 
@@ -137,4 +103,4 @@ This project is licensed under the MIT License
 
 ## **Test**
 
-![Site test](./assets/images/test.gif)
+![Site test]()
