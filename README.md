@@ -21,7 +21,7 @@
   ```
 - **After**
 
-  * Added meta elements to add icons to give reader a visual icon link [FontaAwesome](https://fontawesome.com/search)
+  * Added meta elements to add icons to give reader a visual icon link [FontAwesome](https://fontawesome.com/search)
 
 ```html
 <head>
