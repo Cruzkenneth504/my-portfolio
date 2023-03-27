@@ -123,7 +123,7 @@ p {
 .float:hover{
   box-shadow: var(--fontGlow);
   transition: 0.5s;
-  text-shadow: var(--fontGlow);
+
 }
 
 .float-right{
@@ -199,6 +199,6 @@ p {
   position: relative;
   margin-top: 10px
  }
-
+ 
 }
 
