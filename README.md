@@ -2,7 +2,7 @@
 
 ## **Description**
 
-* This project aimed to learn how to create an accessible website using HTML, and CSS and to practice git commands. The motive of this project was to help me produce a starting code 
+* This project aimed to learn how to create an accessible website using HTML, and CSS and to practice git commands. The motive of this project was to produce a starting code from scratch to develop a portfolio website that will allow others to see my work progress for future jobs.
 
 ### **Code Refactor**
 
@@ -72,16 +72,16 @@
 
 ## **Built With**
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [HTML](https://www.w3schools.com/html/default.asp)   
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [CSS](https://www.w3schools.com/css/default.asp)
+* [HTML Dev](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [HTML W3](https://www.w3schools.com/html/default.asp)   
+* [CSS Dev](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS W3](https://www.w3schools.com/css/default.asp)
 
 ## **Visual**
 
 ![Site Langing Page]()
 
-## **Authors**
+## **Author**
 
 * **Kenneth Cruz** 
 
@@ -100,6 +100,8 @@ This project is licensed under the MIT License
 * [UCB BootCamp](https://bootcamp.berkeley.edu/)
 * [DevTools](https://dev.to/)
 * [Youtube](https://www.youtube.com/)
+* [CssGradient](https://cssgradient.io/)
+* [CssTricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## **Test**
 

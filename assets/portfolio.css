@@ -129,6 +129,7 @@ p {
 .float:hover{
   box-shadow: var(--fontGlow);
   transition: 0.5s;
+  text-shadow: var(--fontGlow);
 }
 
 .float-right{
@@ -145,38 +146,57 @@ p {
 
 .sidebar{
     display: flex;
-    flex-direction:column;
-    justify-content: end;
+    flex-direction:row;
+    justify-content: center;
     align-items: center;
-    width: 75px;
+    width: 100%;
     background: linear-gradient(118deg, rgba(0,0,0,1) 0%, 
     rgba(38,40,41,1) 25%, rgba(62,62,62,1) 37%,
     rgba(19,16,16,0.9850533963585434) 58%, 
     rgba(0,0,0,1) 100%);
-    position: relative;
-    height: 50%;
-    overflow: auto;
-    bottom: 0;
-    left: -25px;;
+    position: absolute;
+    height:75px;
+    overflow:auto;
+    margin-bottom: 55px;
+    left:2px;
     box-shadow: var(--boxShade);
     border-radius: 15px;
-    padding-bottom: 20px;
+   
       
 }
 .sidebar a {
-  display: block;
+  display: inline;
   color: rgb(146, 146, 146);
   padding: 16px;
   text-decoration: none;
 }
 
-.sidebar a:hover {
+.sidebar a:hover{
   display: flex;
   background-color: #555;
   color:var(--fontColor);
   box-shadow: 0px 0px 18px 6px rgba(218,235,230,0.25);
+  transform: matrix();
 }
 
-footer{
-  display: none;
+
+@media screen and (max-width: 992px) {
+  .header span{
+    color: white;
+  }
 }
+
+
+@media screen and (max-width: 768px) {
+  .container{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.my-work{
+  position: relative;
+  margin-top: 10px
+ }
+
+}
+
