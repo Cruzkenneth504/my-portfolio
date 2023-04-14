@@ -88,7 +88,7 @@
 
 **Click the link below:** 
 
-[Link to Website]([)](https://cruzkenneth504.github.io/my-portfolio/)
+[Link to Website](https://cruzkenneth504.github.io/my-portfolio/)
 
 ## **Built With**
 
