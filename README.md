@@ -99,7 +99,7 @@
 
 ## **Visual**
 
-![Site Langing Page]()
+![Site Langing Page](/assets/imgs/portfolio.png)
 
 ## **Author**
 
